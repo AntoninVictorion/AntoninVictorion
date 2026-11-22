@@ -1,49 +1,34 @@
-# Antonin-Victorion
-# 🚀 Hello, I'm Antonin Victorion! 
+# Hi, I'm Antonin Victorion 👋
 
-👋 **Data & AI Engineering Student @ EFREI Paris** (4th year starting Sept. 2026)[cite: 1].
+**Data & AI engineering student at EFREI Paris** (Data Science track, 4th year), currently doing a 5-month technical internship as a **Data Analyst at Safran Purchasing**.
 
-🎯 I am currently seeking a **5-month internship as a Data Scientist / AI Engineer** from **November 2026 to March 2027**[cite: 1]. I am eager to apply my skills in predictive modeling, deep learning (PyTorch), and data analysis to your business challenges[cite: 1].
-
----
-
-### 🧠 Featured Data Science & AI Projects
-
-* **🩺 Breast Cancer Detection (Deep Learning):** Built a Binary Classification model (benign vs. malignant) on the medical dataset **CBIS-DDSM** using Convolutional Neural Networks (**CNN**). Handled class imbalance and optimized training with **Python & PyTorch**[cite: 1].
-* **🖼️ Complex Image Classification (CIFAR-10):** Implemented a **CNN architecture** with 3D filters, Max-Pooling, and specific optimization techniques (dropout, weight decay) to prevent overfitting and achieve robust color object recognition (**Python / PyTorch**)[cite: 1].
-* **📈 Projet ML (Machine Learning & Data Analysis):** Collaborative project focused on predictive modeling, advanced data manipulation, and implementing core Machine Learning algorithms to extract insights from complex datasets (**Python / Scikit-Learn**).
-* **🤖 Intelligent Chatbot (NLP):** Developed an AI conversational agent based on textual similarity analysis, leveraging a customized **TF-IDF vectorization matrix** for semantic matching (**Python**)[cite: 1].
+🎯 I want to do **research in AI**, with a focus on **computer vision and world models**, and I'm aiming for a PhD.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🔬 Research-oriented projects
 
-- **Data Science & IA:** Python (Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Keras), R[cite: 1]
-- **Data & Business Intelligence:** SQL, Microsoft Power BI, Google Analytics[cite: 1]
-- **Software Engineering:** Java, C, Git/GitHub[cite: 1]
-- **Soft Skills:** Autonomy, Teamwork, Rigor, Priority Management[cite: 1]
+* **Latent Dreamer** — Reproducing I-JEPA and Dreamer-style world models in PyTorch, then building an action-conditioned world model on simple Gymnasium environments. *(in progress, private repository for now)*
+* **Aidge in Space** — Embedded neural compression for images, evaluated on PSNR, SSIM, latency and model size. This is my project for the AIDGE Challenge. *(private repository for now)*
+* **[Safran Challenge](https://github.com/AntoninVictorion/safran-challenge)** — Fault detection on aircraft engine time series (NASA C-MAPSS), with operating-regime identification, sensor selection and per-regime normalization. *(in progress)*
+* **Maths for AI research** — A self-built study program (linear algebra, probability, optimization, information theory, learning theory) to be able to read and reproduce research papers.
 
----
+### 🎓 Academic projects
 
-### 💻 Other Engineering Projects
-
-* **📊 C-DataFrame Library:** Conceived and optimized a custom data structure in **C** for high-performance data table manipulation (similar to Pandas dataframes)[cite: 1].
-* **🗄️ ArtConnect (Database Architecture):** Designed a relational schema in **3FN** with implementation of triggers, stored procedures, transactions, and a DAO/JDBC persistence layer (**SQL / Java**)[cite: 1].
-* **🏎️ RoverRunC & Network Optimization:** Focused on trajectory optimization for autonomous vehicles and cost minimization using operational research algorithms (Floyd-Warshall, Balas-Hammer)[cite: 1].
+* **[EFREI Data Stories 2026](https://github.com/AntoninVictorion/efrei-datastories-2026)** — Data analysis and storytelling project.
+* **Medical imaging** — Benign vs. malignant classification on CBIS-DDSM with CNNs (PyTorch), handling class imbalance.
+* **Image classification** — CNN on CIFAR-10 with dropout and weight decay.
 
 ---
 
-### 🎓 Certifications
+### 🛠️ Stack
 
-- **EFREI Paris:** Generative AI Badge[cite: 1]
-- **Google:** Google Analytics[cite: 1]
-- **Harvard University (In Prep):** CS50's Introduction to Artificial Intelligence with Python[cite: 1]
-- **Self-Taught:** Microsoft Power BI (DAX, Power Query) & R language[cite: 1]
+**Python** (PyTorch, NumPy, Pandas, Scikit-Learn) · SQL · Power BI · Java · C · Git
 
 ---
 
-### 📬 Connect with me
+### 📬 Contact
 
-- **💼 LinkedIn:** [linkedin.com/in/antonin-victorion](https://www.linkedin.com/in/antonin-victorion-b9b065291/)[cite: 1]
-- **📧 Email:** victorionantonin17@gmail.com[cite: 1]
-- **📍 Location:** Paris / Villejuif (94), France[cite: 1]
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonin-victorion-b9b065291/)
+- 📧 victorionantonin17@gmail.com
+- 📍 Paris / Villejuif, France
